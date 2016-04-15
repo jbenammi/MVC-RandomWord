@@ -1,0 +1,53 @@
+	* {
+		padding: 0px;
+		margin: 0%;
+		font-family: arial, sans-serif;
+	}
+	#container {
+		width: 90%;
+		margin: 2% auto;
+	}
+	#buttons {
+		margin: 0% auto;
+		width: 12%;
+	}
+
+	form{
+		display: inline-block;
+		vertical-align: bottom;
+	}
+
+	.subButton {
+		background: blue;
+		color: white;
+		border: 1px solid black;
+		box-shadow: 5px 5px 5px #888888;
+		border-radius: 5px;
+		padding: 5px;
+		display: inline-block;
+		vertical-align: bottom;
+	}
+	h1, h3 {
+		color: blue;
+		width: 50%;
+		margin: 3% auto;
+		text-align: center;
+	}
+	
+	h1 {
+		border: 5px groove lightblue;
+		padding: 20px;
+	}
+
+	.comments {
+		height: 100px;
+		width: 98%;
+		border: 1px solid black;
+		margin-bottom: 2%;
+		padding: 5px;
+		border-radius: 10px;
+
+	}
+	#header p {
+		text-align: center;
+	}
